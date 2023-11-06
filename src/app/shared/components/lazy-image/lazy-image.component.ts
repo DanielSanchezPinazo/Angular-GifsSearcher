@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { timeout } from 'rxjs';
+// import { timeout } from 'rxjs';
 
 @Component({
   selector: 'share-lazy-image',

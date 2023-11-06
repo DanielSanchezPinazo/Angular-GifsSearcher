@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Gif } from '../../services/interfaces/gifs.interfaces';
+import { Gif } from '../../interfaces/gifs.interfaces';
 import { GifsService } from '../../services/gifs.service';
 
 @Component({
